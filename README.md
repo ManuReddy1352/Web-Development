@@ -1,2 +1,3 @@
 # Web-Development
-Author - Manikanta Reddy
+
+Author - Manikanta Reddy (Manu Reddy)
